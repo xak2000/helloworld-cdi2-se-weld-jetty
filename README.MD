@@ -63,6 +63,6 @@ Run the example as follows:
 
 >     mvn clean compile exec:java
 
-This deploys the example using [Grizzly](http://grizzly.java.net/) container.
+This deploys the example using [Jetty](https://www.eclipse.org/jetty/) or [Grizzly](http://grizzly.java.net/) container.
 
--   <http://localhost:8080/helloworld>
+-   <http://localhost:8080/helloworld/Jack>
